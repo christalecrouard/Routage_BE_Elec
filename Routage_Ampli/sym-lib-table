@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Routage_Ampli)(type Legacy)(uri ${KIPRJMOD}/Routage_Ampli.lib)(options "")(descr ""))
+)
