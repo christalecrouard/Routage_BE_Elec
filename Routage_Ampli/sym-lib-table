@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name Routage_Ampli)(type Legacy)(uri ${KIPRJMOD}/Routage_Ampli.lib)(options "")(descr ""))
+  (lib (name CmpAmpliAudio)(type Legacy)(uri ${KIPRJMOD}/CmpAmpliAudio.lib)(options "")(descr ""))
 )
