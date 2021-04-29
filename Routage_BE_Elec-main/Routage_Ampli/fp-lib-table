@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Routage_Ampli)(type KiCad)(uri ${KIPRJMOD}/Routage_Ampli.pretty)(options "")(descr ""))
+  (lib (name CmpAmpliAudio)(type KiCad)(uri ${KIPRJMOD}/CmpAmpliAudio.pretty)(options "")(descr ""))
+)
